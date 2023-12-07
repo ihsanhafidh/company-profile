@@ -8,13 +8,14 @@ const Overview = () => {
         <div className="md:flex justify-between py-20 px-8">
           <div className=" items-center">
             <Image
-              src="/home3.jpg"
+              src="/home3.webp"
               width={2000}
               height={900}
               quality={100}
               className=""
               objectFit="cover"
               alt="Picture of the author"
+              placeholder="blur"
             ></Image>
           </div>
           <div className="flex flex-col text-white flex-1.5 justify-center px-10 md:px-30 mb-20 md:mb-0">

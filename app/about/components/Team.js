@@ -33,7 +33,7 @@ const Team = () => {
                 <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">
                   Ihsan Raharjo
                 </h3>
-                <p class="text-sm font-semibold leading-6 text-cyan-600">
+                <p class="text-sm font-semibold leading-6 text-[#0A6076]">
                   Co-Founder / CEO
                 </p>
               </div>
@@ -52,7 +52,7 @@ const Team = () => {
                 <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">
                   Christina Simpson
                 </h3>
-                <p class="text-sm font-semibold leading-6 text-cyan-600">
+                <p class="text-sm font-semibold leading-6 text-[#0A6076]">
                   CTO (Chief Technology Officer)
                 </p>
               </div>
@@ -71,7 +71,7 @@ const Team = () => {
                 <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">
                   Ivan Benson
                 </h3>
-                <p class="text-sm font-semibold leading-6 text-cyan-600">
+                <p class="text-sm font-semibold leading-6 text-[#0A6076]">
                   Senior FullStack Web Development
                 </p>
               </div>
@@ -90,7 +90,7 @@ const Team = () => {
                 <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">
                   Finnian Poole
                 </h3>
-                <p class="text-sm font-semibold leading-6 text-cyan-600">
+                <p class="text-sm font-semibold leading-6 text-[#0A6076]">
                   FullStack Web Development
                 </p>
               </div>
@@ -109,7 +109,7 @@ const Team = () => {
                 <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">
                   Ameera Bates
                 </h3>
-                <p class="text-sm font-semibold leading-6 text-cyan-600">
+                <p class="text-sm font-semibold leading-6 text-[#0A6076]">
                   Mobile Development
                 </p>
               </div>
@@ -128,7 +128,7 @@ const Team = () => {
                 <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">
                   Garfield Lee
                 </h3>
-                <p class="text-sm font-semibold leading-6 text-cyan-600">
+                <p class="text-sm font-semibold leading-6 text-[#0A6076]">
                   Senior Mobile Development
                 </p>
               </div>

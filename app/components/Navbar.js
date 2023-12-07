@@ -31,13 +31,26 @@ function NavBar() {
               {/* Hamburger */}
               <div className="md:hidden">
                 <button
+                  title="hamburger"
                   className="p-2 text-gray-700 rounded-md outline-none focus:border-gray-400 focus:border"
                   onClick={() => setNavbar(!navbar)}
                 >
                   {navbar ? (
-                    <TiThMenu color="white" width={50} height={30} alt="logo" />
+                    <TiThMenu
+                      title="hamburger"
+                      color="white"
+                      width={50}
+                      height={30}
+                      alt="logo"
+                    />
                   ) : (
-                    <TiThMenu color="cyan" width={50} height={30} alt="logo" />
+                    <TiThMenu
+                      title="hamburger"
+                      color="cyan"
+                      width={50}
+                      height={30}
+                      alt="logo"
+                    />
                   )}
                 </button>
               </div>

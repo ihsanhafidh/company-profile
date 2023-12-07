@@ -18,7 +18,7 @@ const Testimonial = () => {
                 className="w-16 mt-5 rounded-full"
                 alt="Avatar Testimoni"
               />
-              <h3 className="text-lg font-bold text-cyan-700">Asep Surasep</h3>
+              <h2 className="text-lg font-bold text-cyan-700">Asep Surasep</h2>
               <p className="text-sm text-darkGrayishBlue">
                 "Working with JOE DevTech has been a game-changer for our
                 business. Their innovative approach to web development
